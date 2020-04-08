@@ -1,3 +1,3 @@
-FROM node:9-alpine
+FROM node:lts
 # Or whatever Node version/image you want
 WORKDIR '/var/www/app'
